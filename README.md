@@ -1,3 +1,7 @@
 # Psyduck-Asset-Pack
-Psyduck Asset Pack for Flipper Zero
-This is a README
+
+## Key Features
+
+* Animations featuring Psyduck!
+* Icon set for various apps and notifications
+
