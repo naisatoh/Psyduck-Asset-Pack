@@ -15,3 +15,7 @@
 * iButton icons
 * More animations
 * Various revisions to existing assets
+
+## Miscellaneous
+
+* The Psyduck Cry animation is set to Butthurt 6. If you want to see it at all times, you can change the manifest.
