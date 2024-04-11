@@ -37,7 +37,7 @@ Max level: 30
 Weight: 3
 
 Name: PsyCry_128x64
-Min butthurt: 0
+Min butthurt: 6
 Max butthurt: 18
 Min level: 1
 Max level: 30
