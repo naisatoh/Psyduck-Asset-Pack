@@ -5,6 +5,12 @@
 * Animations featuring Psyduck
 * Icon set for various apps and notifications
 
+![Sample1](https://github.com/naisatoh/Psyduck-Asset-Pack/assets/165568411/b5691d61-8e9e-4df1-af34-d2a8f2a59e55)
+<br>
+![Sample2](https://github.com/naisatoh/Psyduck-Asset-Pack/assets/165568411/b0682eeb-c1b9-45d7-8961-a29f16ba4637)
+
+
+
 ## Installation
 
 * Move the "Psyduck" directory to "asset_packs" directory on the SD card
