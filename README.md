@@ -24,4 +24,9 @@
 
 ## Miscellaneous
 
-* The Psyduck Cry animation is set to Butthurt 6. If you want to see it at all times, you can change the manifest.
+* The Psyduck Cry and Mad animations are set to Butthurt level 6. If you want to see it at all times, you can change the manifest.
+
+## Update Log
+
+* April 11, 2024: Psyduck Asset Pack initial release
+* April 14, 2024: Two new animations added (Psy_Hack and Psy_Mad)
