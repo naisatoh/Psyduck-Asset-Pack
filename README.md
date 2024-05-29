@@ -31,3 +31,4 @@
 * April 11, 2024: Psyduck Asset Pack initial release
 * April 14, 2024: Two new animations added (Psy_Hack and Psy_Mad)
 * April 17, 2024: Refreshed existing assets; added one new animation (Psy_Matrix); fixed manifest
+* May 29, 2024: Added Infrared icon (forgot to upload it previously); renamed files to coincide with OFW
